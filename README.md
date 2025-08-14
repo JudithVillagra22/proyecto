@@ -6,3 +6,6 @@ Se agrego una funcion y un cambio de idioma.
 ``bash
 python holumundo.py
 
+## Requisitos
+Tener instalado visual
+inicializar proyecto
